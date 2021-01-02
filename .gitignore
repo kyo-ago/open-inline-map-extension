@@ -1,0 +1,4 @@
+*.pxd
+app.zip
+node_modules
+.idea
